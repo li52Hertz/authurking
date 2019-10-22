@@ -1,0 +1,7 @@
+spring:
+	datesource:
+		type:
+		driver-class_name:
+		url:
+		username:
+		password:
